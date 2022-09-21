@@ -159,6 +159,15 @@ Total Biaya : 15.000
 Alamat (- jika ambil sendiri) : -
 Pengiriman (Gojek/Grab/ambil sendiri) : -
 
+Nama : KAVKA + Claresta 
+No. HP : +62 851-5512-1403
+Produk : Seblak instant 2
+Total Biaya : 30.000
+Alamat (- jika ambil sendiri) : -
+Pengiriman (Gojek/Grab/ambil sendiri) : -
+
+PEMBAYARAN : Cash 
+
 PEMBAYARAN : 
 *BCA 2302856011 a/n Andromeda LUNAS
 ---------------------------------------------------------
@@ -206,8 +215,8 @@ PEMBAYARAN :
 Cash
 ---------------------------------------------------------
 
-Total : 25
-Seblak Instant : 18
+Total : 
+Seblak Instant : 20
 Cimol Keriting : 7
 
 Modal total : 
