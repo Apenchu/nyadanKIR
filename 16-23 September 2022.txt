@@ -183,6 +183,8 @@ Pengiriman : grab
 PEMBAYARAN :
 *Cash 
 *BCA 2302856011 a/n Andromeda*
+LUNASS
+
 ---------------------------------------------------------
 
 Jonathan
@@ -210,6 +212,7 @@ Produk : seblak instant
 Total Biaya : 15.000
 Alamat (- jika ambil sendiri) : - 
 Pengiriman (Gojek/Grab/ambil sendiri) : ambil sendiri
+LUNAS
 
 PEMBAYARAN :
 Cash
