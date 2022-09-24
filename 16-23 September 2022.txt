@@ -216,6 +216,15 @@ LUNAS
 
 PEMBAYARAN :
 Cash
+
+Nama : Adek Meda
+No. HP : 
+Produk : seblak instant
+Total Biaya : 15.000
+Alamat (- jika ambil sendiri) : - 
+Pengiriman (Gojek/Grab/ambil sendiri) : ambil sendiri
+
+
 ---------------------------------------------------------
 
 Juniar 
@@ -235,7 +244,7 @@ PEMBAYARAN : cash
 
 
 Total : 
-Seblak Instant : 21
+Seblak Instant : 23
 Cimol Keriting : 8
 
 Modal total : 
