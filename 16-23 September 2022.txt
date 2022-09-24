@@ -244,7 +244,7 @@ PEMBAYARAN : cash
 
 
 Total : 
-Seblak Instant : 23
+Seblak Instant : 22
 Cimol Keriting : 8
 
 Modal total : 
